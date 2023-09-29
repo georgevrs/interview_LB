@@ -13,6 +13,7 @@ This is a FastAPI based application to parse company information from text files
 - `parser.py`: Parses the information from text files and populates the database.
 - `interview_lb.sql` : Contains the exported SQL file
 - `requirements.txt` : Contains the external dependencies
+- `proof.png` : Is a sample screenshot as a proof of functionality
 
 ## How to Run
 
