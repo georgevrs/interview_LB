@@ -11,6 +11,8 @@ This is a FastAPI based application to parse company information from text files
 - `main.py`: The main file containing the FastAPI application.
 - `models.py`: Contains the SQLAlchemy models for the project.
 - `parser.py`: Parses the information from text files and populates the database.
+- `interview_lb.sql` : Contains the exported SQL file
+- `requirements.txt` : Contains the external dependencies
 
 ## How to Run
 
