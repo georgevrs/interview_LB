@@ -1,4 +1,4 @@
-```markdown
+
 # Interview_LB API
 
 ## Overview
@@ -13,6 +13,7 @@ This is a FastAPI based application to parse company information from text files
 - `parser.py`: Parses the information from text files and populates the database.
 
 ## How to Run
+
 
 1. **Set Up Virtual Environment (Optional but recommended)**
    ```shell
