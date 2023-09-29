@@ -1,0 +1,4 @@
+sqlalchemy
+databases
+mysql-connector-python
+fastapi
