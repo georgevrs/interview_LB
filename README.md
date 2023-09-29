@@ -22,7 +22,7 @@ This is a FastAPI based application to parse company information from text files
 
 2. **Install Dependencies**
    ```shell
-   pip install fastapi[all] uvicorn sqlalchemy mysql-connector-python
+   pip install -r requirements.txt
    ```
 
 3. **Create Database Tables**
